@@ -7,7 +7,9 @@ I'm interested in <br> <br>
 ✏️  Natural Language Processing <br> <br>
 📈💌  Affective Computing <br> <br>
 
-How to reach me: alessia.cecere@studenti.unimi.it
+How to reach me: 
+- alessia.cecere@studenti.unimi.it
+- @aleceres on Telegram
 
 <!---
 aleceress/aleceress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
