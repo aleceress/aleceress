@@ -2,10 +2,10 @@ Hi, I’m @aleceress.
 I'm a CS master student at University of Milan.
 
 I'm interested in 
-- 📊 Information Retrieval 
-- 📲 Recommender Systems 
-- ✏️ NLP 
-- 📈💌 Affective Computing
+📊 Information Retrieval 
+📲 Recommender Systems 
+✏️ Natural Language Processing
+📈💌 Affective Computing
 
 How to reach me: alessia.cecere@studenti.unimi.it
 
