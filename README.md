@@ -2,7 +2,7 @@ Hi, I’m @aleceress.
 I'm a CS master student at University of Milan.
 
 I'm interested in <br>
-📊 Information Retrieval <br>
+📊 Information Retrieval <br> <br>
 📲 Recommender Systems <br>
 ✏️ Natural Language Processing <br>
 📈💌 Affective Computing <br>
