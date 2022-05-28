@@ -1,13 +1,13 @@
-- Hi, I’m @aleceress
-- I'm a CS master student at University of Milan.
--
-- I'm interested in 
+Hi, I’m @aleceress.
+I'm a CS master student at University of Milan.
+
+I'm interested in 
 - 📊 Information Retrieval 
 - 📲 Recommender Systems 
 - ✏️ NLP 
 - 📈💌 Affective Computing
 
-- How to reach me: alessia.cecere@studenti.unimi.it
+How to reach me: alessia.cecere@studenti.unimi.it
 
 <!---
 aleceress/aleceress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
