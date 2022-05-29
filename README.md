@@ -9,7 +9,7 @@ I'm interested in <br> <br>
 
 How to reach me: 
 - alessia.cecere@studenti.unimi.it
-- @aleceres on Telegram
+- Telegram @aleceres 
 
 <!---
 aleceress/aleceress is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
